@@ -1,8 +1,8 @@
 {
-  "name": "Arif-Noer-Wahidin",
+ "name": "vivek9patel-portfolio",
   "version": "2.0.0",
   "private": true,
-  "homepage": "https://panduancode.github.io/ubuntu/",
+  "homepage": "https://vivek9patel.github.io/",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
